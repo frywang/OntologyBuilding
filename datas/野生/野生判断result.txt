@@ -1,0 +1,9 @@
+青团{true=1}
+薄荷{true=2}
+刺梨{true=2}
+豌豆{true=2}
+荠菜{true=1}
+益母草{true=2}
+甜菜{true=1}
+生菜{true=1}
+
