@@ -21,14 +21,17 @@ public class Main {
 //		String rawcorpusfilepath = "datas/foods_dbpedia_结巴.txt";
 //		String rawcorpusfilepath = "datas/英文名/英文名lable.txt";
 //		String rawcorpusfilepath = "datas/foods_hudong_结巴.txt";
-		String rawcorpusfilepath = "datas/human_360_未分词.txt";	
+//		String rawcorpusfilepath = "datas/human_360_未分词.txt";	
+//		String rawcorpusfilepath = "datas/human_hudong_lable_未分词.txt";
+		String rawcorpusfilepath = "datas/human_hudong_all_未分词.txt";
 		
 		List<String> str = PatternGet.readFile(rawcorpusfilepath);   
 		
 		//获取属性值正则表达式
 //		String patternfilepath = "datas/英文名/英文名值词表.txt";
 //		String patternfilepath = "datas/英文名/英文名词表.txt";		
-		String patternfilepath = "datas/人类/有值/智力/智力特征词表.txt";	
+		String patternfilepath = "datas/人类/没有值/绰号/绰号特征词表.txt";	
+
 		
 		String colorPattern = PatternGet.readPattern(patternfilepath);
 		Pattern pattern = Pattern.compile(colorPattern);		
@@ -37,7 +40,7 @@ public class Main {
 		List<String> getlist=PatternGet.getPattern(str,pattern);
 		
 		//将截取后的语料写入文件
-		String wirtecorpuspath = "datas/人类/有值/智力/智力值语料.txt";
+		String wirtecorpuspath = "datas/人类/没有值/绰号/绰号值语料.txt";
 //		String wirtecorpuspath = "datas/英文名/英文名dbpedia.txt";
 		PatternGet.writeCorpus(getlist,wirtecorpuspath);
 
