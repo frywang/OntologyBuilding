@@ -1,0 +1,599 @@
+salmon;salmon
+Sandwich;Sandwich
+The Nothest Food;The Nothest Food
+Loofah of Latin;Loofah of Latin
+Chinese food;Chinese food
+Chinese meal;Chinese meal
+Cecils;Cecils
+dairy products;dairy products
+lactose;lactose
+Cheese Cake;Cheese Cake
+SautéedShreddedPorkinSweetBeanSauce;SautéedShreddedPorkinSweetBeanSauce
+ginseng;ginseng
+Manilkara zapota;Manilkara zapota
+margarine;margarine
+senbei;senbei
+sembei;sembei
+Cocoa Butter Replacer;Cocoa Butter Replacer
+whole milk powder;whole milk powder
+Mixed Congee;Mixed Congee
+eight-treasure rice pudding;eight-treasure rice pudding
+Ziziphus jujuba;Ziziphus jujuba
+white gourd;white gourd
+white fuzzy vegetable;white fuzzy vegetable
+Chinese Caterpillar Fungus;Chinese Caterpillar Fungus
+ice cream;ice cream
+Cucumber Salad;Cucumber Salad
+cold noodles;cold noodles
+herb tea;herb tea
+Cold Noodles with Sesame Sauce;Cold Noodles with Sesame Sauce
+sliced noodles;sliced noodles
+Coilia ecetenes Jordan;Coilia ecetenes Jordan
+Rosa roxbunghii;Rosa roxbunghii
+Chop bell pepper fish head;Chop bell pepper fish head
+steamed stuffed bun;steamed stuffed bun
+Waffle;Waffle
+Cushaw Seed;Cushaw Seed
+ Pumpkin Seed; Pumpkin Seed
+Pumpkin Porridge;Pumpkin Porridge
+pumpkin pie;pumpkin pie
+Pumpkin;Pumpkin
+cappuccino;cappuccino
+Steamed Rice with Red-Cooked Pork;Steamed Rice with Red-Cooked Pork
+braised pork ric;braised pork ric
+Brassica oleracea var. capitata;Brassica oleracea var. capitata
+Roast pork;Roast pork
+steamed sponge cake;steamed sponge cake
+Steamed chicken with chili sauce;Steamed chicken with chili sauce
+Chewing gum;Chewing gum
+Crepes;Crepes
+Cola chicken wings;Cola chicken wings
+toast;toast
+Monosodium glutamate;Monosodium glutamate
+Gulaorou;Gulaorou
+Coffee Cherry;Coffee Cherry
+Curry Chicken;Curry Chicken
+bacon;bacon
+Salted duck egg;Salted duck egg
+beer;beer
+Phaseolus vulgaris;Phaseolus vulgaris
+twice-cooked pork slices;twice-cooked pork slices
+Mashed Potato;Mashed Potato
+Potato Cake;Potato Cake
+Sundae;Sundae
+Cherry Tomatoes;Cherry Tomatoes
+Nut;Nut
+Bacon;Bacon
+Metapenaeus ensis;Metapenaeus ensis
+cuttloefish;cuttloefish
+Macadamia nut;Macadamia nut
+Hawaii nut;Hawaii nut
+Queensland nut;Queensland nut
+The Xinjiang market chicken;The Xinjiang market chicken
+Rice;Rice
+Garlic;Garlic
+Chinese Mitten Crab;Chinese Mitten Crab
+Big pacific-salmon;Big pacific-salmon
+Barley;Barley
+Large yellow croaker;Large yellow croaker
+lobster;lobster
+breast milk;breast milk
+Cream of Mushroom Soup;Cream of Mushroom Soup
+cream;cream
+milk powder;milk powder
+Tea with milk;Tea with milk
+Steamed Creamy Custard Bun;Steamed Creamy Custard Bun
+ginger;ginger
+Baby Chinese Cabbage;Baby Chinese Cabbage
+hakka food;hakka food
+Spicy diced chicken with peanuts;Spicy diced chicken with peanuts
+sushi;sushi
+Snacks;Snacks
+Pak-choi;Pak-choi
+Chinese white cabbage;Chinese white cabbage
+Chinese mustard;Chinese mustard
+Bleeker;Bleeker
+Red Swamp Crayfish;Red Swamp Crayfish
+haw flakes;haw flakes
+Hawthorn wine;Hawthorn wine
+haw;haw
+may tree;may tree
+maybush;maybush
+Naemorhedus goral Hard-wicke;Naemorhedus goral Hard-wicke
+CommonYam Rhizome;CommonYam Rhizome
+Sichuan Cuisine;Sichuan Cuisine
+chocolate cake;chocolate cake
+Chocolate Cream;Chocolate Cream
+chocolate;chocolate
+choc;choc
+Badam;Badam
+pudding;pudding
+King crab;King crab
+Coiliaspp;Coiliaspp
+Scallop;Scallop
+rice cake;rice cake
+Baumkuchen;Baumkuchen
+Huizhou Cuisine;Huizhou Cuisine
+Italian food;Italian food
+Mousse Cake;Mousse Cake
+Purple Haricot;Purple Haricot
+Scallop;Scallop
+Hand pilaf;Hand pilaf
+Hand grab cake;Hand grab cake
+wonton;wonton
+PIZZA;PIZZA
+matcha;matcha
+Hand-pulled Noodles;Hand-pulled Noodles
+Ramen Noodles;Ramen Noodles
+Basi banana;Basi banana
+Napoléon Bonaparte;Napoléon Bonaparte
+Coffee latte;Coffee latte
+Tiramisu;Tiramisu
+MOCA;MOCA
+cooking wine;cooking wine
+fried instant noodles;fried instant noodles
+Lump of Sugar;Lump of Sugar
+Theragra chalcogramma;Theragra chalcogramma
+Cookie;Cookie
+mooncake;mooncake
+Carica papaya;Carica papaya
+Sautéed Sliced Pork;Sautéed Sliced Pork
+ Eggs and Black Fungus; Eggs and Black Fungus
+apricot kernel juice;apricot kernel juice
+Bitter Apricot Kernel;Bitter Apricot Kernel
+Apricot;Apricot
+Armenian plum;Armenian plum
+Chilled Mango Sago Cream with Pomelo;Chilled Mango Sago Cream with Pomelo
+Yang mei wine;Yang mei wine
+pine nut;pine nut
+muffin;muffin
+Sweet and Sour Mandarin Fish;Sweet and Sour Mandarin Fish
+Loquat;Loquat
+jelly;jelly
+marmalade;marmalade
+Citron tea;Citron tea
+Lamon;Lamon
+Persimmon cake;Persimmon cake
+Diospyros Kaki L.f;Diospyros Kaki L.f
+Juteleaf Raspberry;Juteleaf Raspberry
+Chestnut;Chestnut
+Walnut powder;Walnut powder
+Dried longan;Dried longan
+Osmanthus Jelly;Osmanthus Jelly
+Mandarinfish;Mandarinfish
+peach;peach
+walnut cake;walnut cake
+mulberry;mulberry
+Swimmingcrab;Swimmingcrab
+spun sugar;spun sugar
+Coconut milk;Coconut milk
+filbert;filbert
+cherry;cherry
+olive oil;olive oil
+canned orange;canned orange
+orange;orange
+orange juice;orange juice
+Bluntnose black bream;Bluntnose black bream
+Maoxue Wang;Maoxue Wang
+Aquatic products;Aquatic products
+cress;cress
+Peach;Peach
+Batsch;Batsch
+Water;Water
+ Oxidane; Oxidane
+ Hydroxic acid; Hydroxic acid
+ Hydroxylic acid; Hydroxylic acid
+Hamburg;Hamburg
+Sweet soup balls;Sweet soup balls
+soup;soup
+salad;salad
+Chinese mitten crab;Chinese mitten crab
+Dolphin;Dolphin
+eel;eel
+deep-fried dough sticks;deep-fried dough sticks
+Braised Prawns;Braised Prawns
+Chicken Feet with Pickled Peppers;Chicken Feet with Pickled Peppers
+Chewing gum;Chewing gum
+puff;puff
+Pickled cabbage;Pickled cabbage
+Oriental weatherfish;Oriental weatherfish
+Thai Food;Thai Food
+Wood;Wood
+Zhejiang cuisine;Zhejiang cuisine
+Holothuria;Holothuria
+hai dai tang;hai dai tang
+seajelly;seajelly
+Muraenesocidae;Muraenesocidae
+amylum;amylum
+Deep sea fish oil;Deep sea fish oil
+Steamed fish;Steamed fish
+Soup dumplings;Soup dumplings
+Soup dumplings;Soup dumplings
+ham sausage;ham sausage
+ham;ham
+Chafing dish;Chafing dish
+chafing dish;chafing dish
+ hot pot; hot pot
+chaffy dish;chaffy dish
+Fried gourd;Fried gourd
+Sautéed Rice Noodles;Sautéed Rice Noodles
+Yogurt ice cream;Yogurt ice cream
+fried noodles;fried noodles
+Braised pork ribs;Braised pork ribs
+South Korean fried chicken;South Korean fried chicken
+condensed milk;condensed milk
+a baked pancake;a baked pancake
+Ipomoea batatas;Ipomoea batatas
+Rack of lamb;Rack of lamb
+Roast eggplant;Roast eggplant
+Roast Gluten;Roast Gluten
+Roast Chicken;Roast Chicken
+roast duck;roast duck
+hot grass jelly;hot grass jelly
+ herbal jelly; herbal jelly
+barbecue;barbecue
+用于家庭式；roast;用于家庭式；roast
+用于商业;用于商业
+sesame seed cake;sesame seed cake
+carbonado;carbonado
+Steamed dumplings;Steamed dumplings
+pudding;pudding
+Fried Eggs;Fried Eggs
+Chinese savior crepe;Chinese savior crepe
+Steamed Rice in Clay Pot;Steamed Rice in Clay Pot
+Cubilose;Cubilose
+Popcorn;Popcorn
+lancmange;lancmange
+Milk pudding;Milk pudding
+beefsteak;beefsteak
+steak;steak
+butter fat;butter fat
+beef tallow;beef tallow
+beef tea;beef tea
+beef;beef
+hotpot;hotpot
+red meat;red meat
+Cow liver;Cow liver
+Bovine kidney;Bovine kidney
+Dialect;Dialect
+Beef Shank;Beef Shank
+Rana Catesbiana;Rana Catesbiana
+nougat;nougat
+Go Believe;Go Believe
+Dog meat;Dog meat
+Stewed Pork Ball;Stewed Pork Ball
+Yangtao Kiwifruit;Yangtao Kiwifruit
+Pig offal;Pig offal
+Zhudachang;Zhudachang
+lard;lard
+Pig skin;Pig skin
+PorkLiver;PorkLiver
+Pig's brains;Pig's brains
+Trotter;Trotter
+The pig tongue;The pig tongue
+pig's trotters;pig's trotters
+cat ear;cat ear
+Rose tea;Rose tea
+sunflower seeds;sunflower seeds
+Tempura;Tempura
+Dessert;Dessert
+Donuts;Donuts
+Birthday Cake;Birthday Cake
+pan fried;pan fried
+sashimi;sashimi
+fresh;fresh
+ketchup;ketchup
+Dough Drop and Assorted Vegetable Soup;Dough Drop and Assorted Vegetable Soup
+Sliced Boiled Chicken;Sliced Boiled Chicken
+Rice Congee;Rice Congee
+white granulated sugar;white granulated sugar
+Cabbage braised tofu;Cabbage braised tofu
+White Radish;White Radish
+sherry;sherry
+white prawn;white prawn
+White spirit；Distilled spirit;White spirit；Distilled spirit
+white vineger;white vineger
+edible mantis shrimp;edible mantis shrimp
+Japanese Mantis Shrimp;Japanese Mantis Shrimp
+Congee with minced pork and preserved egg;Congee with minced pork and preserved egg
+Tofu with Preserved Eggs;Tofu with Preserved Eggs
+Salted Duck;Salted Duck
+salt;salt
+Epinephelussp;Epinephelussp
+Bibimbap;Bibimbap
+Bibimbap;Bibimbap
+Casserole porridge;Casserole porridge
+Pecan;Pecan
+Biluochun Tea;Biluochun Tea
+steamed bread of corn;steamed bread of corn
+Small octopus balls;Small octopus balls
+octopus;octopus
+rice wine;rice wine
+rice;rice
+Silk noodles;Silk noodles
+vermicelli;vermicelli
+Steamed rice powder and pork;Steamed rice powder and pork
+rice dumpling;rice dumpling
+glutinous rice cake;glutinous rice cake
+syrup;syrup
+marrons glaces;marrons glaces
+sweetened garlic;sweetened garlic
+Sweet and Sour Spare Ribs;Sweet and Sour Spare Ribs
+Inside ridge;Inside ridge
+Glutinous rice cakes;Glutinous rice cakes
+Seaweed;Seaweed
+Seaweed and Egg Soup;Seaweed and Egg Soup
+Purple potato porridge;Purple potato porridge
+Jujube Red Date;Jujube Red Date
+Chinese Date;Chinese Date
+Rambutan;Rambutan
+Braised Ribbonfish in Brown Sauce;Braised Ribbonfish in Brown Sauce
+hong shao qie zi;hong shao qie zi
+fish in brown sauce;fish in brown sauce
+dark brown sugar;dark brown sugar
+Black tea;Black tea
+red wine;red wine
+Geocarcoides natalis;Geocarcoides natalis
+Bean soup;Bean soup
+Purified water;Purified water
+Deionized water;Deionized water
+Green Tea;Green Tea
+Congee with Mung Bean Congee;Congee with Mung Bean Congee
+Mung bean cake;Mung bean cake
+Mung Bean sprouts;Mung Bean sprouts
+can;can
+The fairy fruit;The fairy fruit
+Nile mouthbreeder;Nile mouthbreeder
+mutton tallow;mutton tallow
+Mutton soup;Mutton soup
+Steamed mutton;Steamed mutton
+mutton;mutton
+Lamb Spine Hot Pot;Lamb Spine Hot Pot
+Hibiscus esculentus;Hibiscus esculentus
+cate;cate
+delicacy;delicacy
+weet Heart Pastry;weet Heart Pastry
+The old hen;The old hen
+Rice-meat dumplings soup;Rice-meat dumplings soup
+burger;burger
+Jellied meat;Jellied meat
+Rougamo;Rougamo
+Dried Meat Floss;Dried Meat Floss
+flesh];flesh]
+Rouzong;Rouzong
+beef in hot pot;beef in hot pot
+carrot juice;carrot juice
+skimmed milk powder;skimmed milk powder
+bacon;bacon
+sausage;sausage
+YanLa meat;YanLa meat
+fermented bean curd;fermented bean curd
+Fuzhu;Fuzhu
+buffet;buffet
+Stinky tofu (Smelly tofu);Stinky tofu (Smelly tofu)
+mayonnaisa;mayonnaisa
+Cheese and ribs;Cheese and ribs
+cheese;cheese
+SEMEN SESAMI NIGRUM;SEMEN SESAMI NIGRUM
+sesame paste;sesame paste
+mustard;mustard
+Chinese kale;Chinese kale
+Japanese Banana;Japanese Banana
+Pepper oil;Pepper oil
+peanut oil;peanut oil
+peanut butter;peanut butter
+peanut;peanut
+Scented tea;Scented tea
+Amaranthus mangostanus L.;Amaranthus mangostanus L.
+cider;cider
+apple vinegar;apple vinegar
+Apple Inc.;Apple Inc.
+eggplant;eggplant
+Egg in tea;Egg in tea
+a tea leaf;a tea leaf
+Chrysanthemum coronarium;Chrysanthemum coronarium
+strawberry;strawberry
+Grass carp;Grass carp
+Stupid egg;Stupid egg
+meat dishes;meat dishes
+Lotus fog;Lotus fog
+Asparagusplettuce.;Asparagusplettuce.
+Chrysanthemum tea;Chrysanthemum tea
+colza oil;colza oil
+style of cooking;style of cooking
+Brassica oleracea L. var. botrytis L.;Brassica oleracea L. var. botrytis L.
+jackfruit;jackfruit
+fillet;fillet
+turnip strips cake;turnip strips cake
+dried turnip;dried turnip
+Radish soup;Radish soup
+radish;radish
+raisin;raisin
+Grapefruit;Grapefruit
+Pomelo;Pomelo
+grape juice;grape juice
+Wine;Wine
+Grapes;Grapes
+Calabash Gourd;Calabash Gourd
+Shallot pancake;Shallot pancake
+sunflower seed oil;sunflower seed oil
+Distilled water;Distilled water
+Blue Mountain Coffee;Blue Mountain Coffee
+blueberry;blueberry
+vegetables;vegetables
+Potato Chips;Potato Chips
+chips;chips
+lotus root starch;lotus root starch
+Shrimp Meat;Shrimp Meat
+Prawn Crackers;Prawn Crackers
+shrimp paste;shrimp paste
+Broad beans;Broad beans
+oyster sauce;oyster sauce
+Oyster Omelette;Oyster Omelette
+strawberry;strawberry
+Snake fruit;Snake fruit
+snake meat;snake meat
+cone;cone
+Egg Tart;Egg Tart
+Fried rice with egg;Fried rice with egg
+Cake;Cake
+Egg-Yolk Puff;Egg-Yolk Puff
+Sinonovacula constrzcta(Lamarck);Sinonovacula constrzcta(Lamarck)
+royal jelly;royal jelly
+Propolis;Propolis
+honey;honey
+Brachyura;Brachyura
+Brassica oleracea var. italica;Brassica oleracea var. italica
+Sirloin;Sirloin
+Panax quinquefolius L.;Panax quinquefolius L.
+Watercress;Watercress
+Watermelon;Watermelon
+sago;sago
+tapioca;tapioca
+Tomato and Egg Soup;Tomato and Egg Soup
+Celery;Celery
+Western;Western
+Preserved plum;Preserved plum
+flavouring;flavouring
+soymilk;soymilk
+Sweet buns;Sweet buns
+Bean paste;Bean paste
+Soybean Milk;Soybean Milk
+thick broad-bean sauce;thick broad-bean sauce
+skin of tofu;skin of tofu
+bean curd;bean curd
+the skin of soybean milk;the skin of soybean milk
+Beancurd Jelly;Beancurd Jelly
+tofu;tofu
+doujiao;doujiao
+dou chi;dou chi
+fermented soya beans;fermented soya beans
+Garden Pea;Garden Pea
+cheese cake;cheese cake
+Vietnamese cuisine;Vietnamese cuisine
+Popping candy;Popping candy
+soft sweets;soft sweets
+Spicy bar ;Spicy bar 
+Spicy gluten;Spicy gluten
+capsicol;capsicol
+chilli sauce;chilli sauce
+macaroni;macaroni
+Fast Frozen Food;Fast Frozen Food
+Boiled Glutinous Rice Balls in Fermented Glutinous Rice;Boiled Glutinous Rice Balls in Fermented Glutinous Rice
+soy sauce;soy sauce
+leben;leben
+Hot and Sour Soup;Hot and Sour Soup
+Liquor-saturated shrimp;Liquor-saturated shrimp
+Annona squamosa L.;Annona squamosa L.
+Can of tuna;Can of tuna
+tuna;tuna
+teppanyaki;teppanyaki
+Tieguanyin;Tieguanyin
+whitebait;whitebait
+Pampus argenteus;Pampus argenteus
+rice crust;rice crust
+guokwei;guokwei
+fried dumpling;fried dumpling
+Plain Noodles;Plain Noodles
+mature vinegar;mature vinegar
+Sydney ;Sydney 
+Sidney Yim;Sidney Yim
+Lei Suet;Lei Suet
+Sprite;Sprite
+ice cream;ice cream
+Green pepper black bean;Green pepper black bean
+Fried meat with green pepper;Fried meat with green pepper
+Pneumatophorus japonicus;Pneumatophorus japonicus
+Love To Be Found In Newhere;Love To Be Found In Newhere
+Garden Pea;Garden Pea
+Black Carp;Black Carp
+bread;bread
+noodle;noodle
+wheat flour;wheat flour
+Korean food;Korean food
+Scrambled Egg with Leek;Scrambled Egg with Leek
+drink;drink
+Dumpling;Dumpling
+Biscuit;Biscuit
+wonton;wonton
+steamed bun;steamed bun
+sausage;sausage
+Sliced mushrooms;Sliced mushrooms
+Cilantro;Cilantro
+banana;banana
+Spicy chicken wings;Spicy chicken wings
+spiced vinegar;spiced vinegar
+MACARON;MACARON
+Water chestnut cake;Water chestnut cake
+water chestnut;water chestnut
+potato;potato
+Fried chop rice cake;Fried chop rice cake
+Fried chop rice cake;Fried chop rice cake
+Donkey Burger;Donkey Burger
+fish head;fish head
+Caviar;Caviar
+Roe;Roe
+dried fishes;dried fishes
+escrod;escrod
+Fin;Fin
+fish;fish
+Cod Liver Oil;Cod Liver Oil
+Stir-fried Pork Strips in Fish Sauce;Stir-fried Pork Strips in Fish Sauce
+dried squids;dried squids
+sleeve-fish;sleeve-fish
+Shandong cuisine;Shandong cuisine
+ Lu cuisine; Lu cuisine
+Confucian cuisine;Confucian cuisine
+Scomberomorus niphonius;Scomberomorus niphonius
+Flower cake;Flower cake
+carp;carp
+Carassius auratus;Carassius auratus
+pomfret;pomfret
+Catfish;Catfish
+Snapper;Snapper
+Gadous macrocephaius;Gadous macrocephaius
+eel;eel
+chicken cookies;chicken cookies
+chicken giblets;chicken giblets
+chicken broth;chicken broth
+a chicken claw;a chicken claw
+Popcorn Chicken;Popcorn Chicken
+chicken essence seasoning;chicken essence seasoning
+chicken rolls;chicken rolls
+chicken;chicken
+chicken liver;chicken liver
+chicken breast;chicken breast
+Egg puffs;Egg puffs
+eggs;eggs
+Kusnezoff Monkshood Root;Kusnezoff Monkshood Root
+duck;duck
+Duck intestine;Duck intestine
+yabo;yabo
+duck tongue;Entenzunge;duck tongue;Entenzunge
+duck's egg;duck's egg
+Duck blood;Duck blood
+goose;goose
+Goose liver;Goose liver
+Gooze egg;Gooze egg
+Quail egg;Quail egg
+McFlurry;McFlurry
+Cereal;Cereal
+maltose;maltose
+Mapo Tofu;Mapo Tofu
+Fried Dough Twists;Fried Dough Twists
+hot and spicy;hot and spicy
+butter;butter
+cucumber;cucumber
+Daylily;Daylily
+yellow croaker;yellow croaker
+SOYBEAN SAUCE;SOYBEAN SAUCE
+ricewine;ricewine
+Monopterus albus;Monopterus albus
+Black Coffee;Black Coffee
+Schwarzwald;Schwarzwald
+Black gruel;Black gruel
+black sesame soup;black sesame soup
+851564515;851564515
+Palinuridae;Palinuridae
+lobster;lobster
+T-bone steak;T-bone steak
