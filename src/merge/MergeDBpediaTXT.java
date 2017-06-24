@@ -21,6 +21,7 @@ public class MergeDBpediaTXT {
 		File file = new File(filepath);
 		//truefilist是确定为文件的路径
 		List<String> truefilelist = new ArrayList<String>();
+		List<String> choosedfilelist = new ArrayList<String>();
 		try {
 			if(!file.isDirectory()){
 				System.out.println("这不是一个文件夹");
@@ -46,7 +47,15 @@ public class MergeDBpediaTXT {
 			e.printStackTrace();
 		}
 		
-		return truefilelist;
+		for(String list:truefilelist){
+			if (list.contains("语料")){
+				choosedfilelist.add(list);
+			}
+		}
+		
+		System.out.println(choosedfilelist);
+		return choosedfilelist;
+		
 		
 	}		
 	
@@ -66,17 +75,17 @@ public class MergeDBpediaTXT {
 //			System.out.println(f);
 			while(line != null){
 				line = bufferedReader.readLine();
-				if(line.contains("INFO:")){
-					String newline = line.replaceAll("\r|\n", "afdafaf");
-					break;
-				}
+//				if(line.contains("INFO:")){
+//					String newline = line.replaceAll("\r|\n", "afdafaf");
+//					break;
+//				}
 				System.out.println(line);
 				line1.add(f+"####"+line);
 			}
 			
 		}	
 		try {
-				File writename = new File("datas/merge_corpus.txt");
+				File writename = new File("datas/历史人物merge_corpus.txt");
 				FileWriter  fw = new FileWriter(writename);
 				BufferedWriter bw = new BufferedWriter(fw);		
 				for (int i =0; i < line1.size();i++){
@@ -95,7 +104,8 @@ public class MergeDBpediaTXT {
 	
 	public static void main(String[] args) throws Exception{
 		//需要处理的文件夹
-		String filepath = "/home/fry/workspace/DBpedia/datas/结果/";
+//		String filepath = "/home/fry/workspace/DBpedia/datas/结果/";
+		String filepath = "/home/fry/workspace/OntologyBuilding/datas/人类/历史人物可用";
 		
 //		System.out.println(readFile(filepath));
 		//根据文件夹生成真正的文件
