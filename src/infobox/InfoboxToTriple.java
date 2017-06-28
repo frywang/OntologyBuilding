@@ -23,11 +23,11 @@ public class InfoboxToTriple {
             
             Pattern p = Pattern.compile(",|，|、|。");
             while((line = bufReader.readLine()) != null){ 
-            	String valueContent = line.substring(line.indexOf("#::")+3);  
+            	String valueContent = line.substring(line.indexOf("#::")+3); 
+            	System.out.println(valueContent);
         		Matcher m  = p.matcher(line);
         		//发现一个就打印一个
         		if(m.find()){
-            		System.out.println("我");
             		String linemore [] = (line.substring(line.indexOf("#::"))).split(",|，|、|，");
             		System.out.println(linemore.length);
             		
@@ -59,10 +59,10 @@ public class InfoboxToTriple {
 		GatheringInfobox a = new GatheringInfobox();
 		
 		//将截取后的语料写入文件
-		String wirtecorpuspath = "datas/testresault.txt";
+		String wirtecorpuspath = "datas/testcleanresault.txt";
 	
 		List<String> cleanReadLineFile = cleanReadLineFile(wirtecorpuspath);	
-		String wirtecleancorpuspath = "datas/testcleanresault.txt";
+		String wirtecleancorpuspath = "datas/cleanresault.txt";
 		a.writeCorpus(cleanReadLineFile,wirtecleancorpuspath);
 
 	}
