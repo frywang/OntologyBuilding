@@ -64,6 +64,7 @@ public class GatheringInfobox {
 			List<String> getlist = new ArrayList<String>();
 			int i = 1;
 			for(String cl:patternList){
+				System.out.println(cl);
 				i++;
 				/*截取属性名字*/
 				String propName = cl.substring(0, cl.indexOf("####"));
@@ -94,11 +95,6 @@ public class GatheringInfobox {
 		}
 		
 		
-
-		
-		
-		
-
 		
 
 		
