@@ -69,6 +69,8 @@ public class GatheringInfobox {
 				/*截取属性名字*/
 				String propName = cl.substring(0, cl.indexOf("####"));
 				/*截取标签名字*/				
+				String patternStr = cl.substring(cl.indexOf("####")+4);
+				System.out.println(patternStr);
 				Pattern p = Pattern.compile(cl.substring(cl.indexOf("####")+4));
 
 				
@@ -139,16 +141,16 @@ public class GatheringInfobox {
 	            /*当下一句不为空*/
 	            while((line = bufReader.readLine()) != null){ 
 		            /*当属性包含这几种起并列意义的符号*/
-            		String valueStr = (line.substring(line.indexOf("#::")));
+            		String valueStr = (line.substring(line.lastIndexOf("#::")));
             		Pattern patternCle = Pattern.compile(patternClean);
 	            	if(patternCle.matcher(valueStr) != null){
-	            		String linemore [] = (line.substring(line.indexOf("#::"))).split(",|，|、|，");
+	            		String linemore [] = (line.substring(line.lastIndexOf("#::"))).split(",|，|、|，");
 	            		for (int j = 0 ; j <linemore.length ; j++ ) {
 	            		      cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+linemore[j]);
 	            		    }  
 	            		
 	            	}else{
-	            		cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+line.substring(line.indexOf("::")+2));
+	            		cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+line.substring(line.lastIndexOf("#::")));
 	            		
 	            	}
 	             
@@ -169,11 +171,11 @@ public class GatheringInfobox {
 			
 			GatheringInfobox test = new GatheringInfobox();
 			//获取原始语料
-			String filepath = "datas/人类语料/infobox/baidu_喜羊羊与灰太狼infobox.txt";
+			String filepath = "datas/人类语料/infobox/baidu_熊出没infobox.txt";
 			List<String> corpusList = readFile(filepath);   
 			
 			//获取属性值正则表达式
-			String patternfilepath = "datas/人类语料/infobox/喜羊羊标签.txt";
+			String patternfilepath = "datas/人类语料/infobox/熊出没标签.txt";
 			List<String> patternList = test.readLineFile(patternfilepath);
 
 			//生成能匹配且经过截取的字符串list
