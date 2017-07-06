@@ -30,7 +30,7 @@ public class GatheringInfobox {
 
 		}
 		
-		//读取属性和标签对应表，。
+		//读取属性和标签对应表
 		public List<String> readLineFile(String filename){  
 			List<String> patternlist = new ArrayList<String>();
 	        try {  
@@ -69,9 +69,9 @@ public class GatheringInfobox {
 				/*截取属性名字*/
 				String propName = cl.substring(0, cl.indexOf("####"));
 				/*截取标签名字*/				
-				String patternStr = cl.substring(cl.indexOf("####")+4);
+				String patternStr = cl.substring(cl.indexOf("####"));
 				System.out.println(patternStr);
-				Pattern p = Pattern.compile(cl.substring(cl.indexOf("####")+4));
+				Pattern p = Pattern.compile(patternStr);
 
 				
 				for(String f : corpusList){
@@ -130,31 +130,66 @@ public class GatheringInfobox {
 		public List<String> cleanReadLineFile(String filename){  
 			List<String> cleanpatternlist = new ArrayList<String>();
 			
-    		String patternClean = ",|，|、|，";
+			/*specialProp是值隔断规则需要特殊处理的属性*/
+			String specialProp = "成就值##";
+			
+			/*lazyPtternClean是普通适用的隔断模板*/
+    		String lazyPtternClean = ",|，|、|，";
+    		
+    		/*hardPatternClean是对于一些特殊属性适用的隔断模板*/
+    		String hardPatternClean = ",|，|、|，|》《| ";
 
 	        try {  
+	        
 	            FileInputStream in = new FileInputStream(filename);  
 	            InputStreamReader inReader = new InputStreamReader(in, "UTF-8");  
 	            BufferedReader bufReader = new BufferedReader(inReader);  
 	            String line = null;  
-	            int i = 1;  
+	            
 	            /*当下一句不为空*/
 	            while((line = bufReader.readLine()) != null){ 
-		            /*当属性包含这几种起并列意义的符号*/
-            		String valueStr = (line.substring(line.lastIndexOf("#::")));
-            		Pattern patternCle = Pattern.compile(patternClean);
-	            	if(patternCle.matcher(valueStr) != null){
-	            		String linemore [] = (line.substring(line.lastIndexOf("#::"))).split(",|，|、|，");
-	            		for (int j = 0 ; j <linemore.length ; j++ ) {
-	            		      cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+linemore[j]);
-	            		    }  
+
+			            /*当属性包含这几种起并列意义的符号*/
+	            		String valueStr = (line.substring(line.lastIndexOf("#::")));
+	            	
+	            		Pattern patternSpe = Pattern.compile(specialProp);
+	            		Pattern patternCle = Pattern.compile(lazyPtternClean);
+	            		Pattern hardPattern = Pattern.compile(hardPatternClean);
 	            		
-	            	}else{
-	            		cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+line.substring(line.lastIndexOf("#::")));
+	            		if(patternSpe.matcher(line) != null){
+	            			String linemore [] = (line.substring(line.lastIndexOf("#::")+3)).split(",|、|》《| ");
 	            		
-	            	}
-	             
-	            }  
+	            			cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+linemore[0]);
+	         
+	            			for (int j = 1 ; j <linemore.length ; j++ ) {
+	            				
+	            				if((!linemore[j].equals("展开"))&&(!linemore[j].equals("收起"))&&(!linemore[j-1].equals("展开"))){
+	            					System.out.println(linemore[j]);
+	            					cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+linemore[j]);
+	            				}
+		            		      
+		            		    }  
+	            			
+	            		}else{
+	            			if(patternCle.matcher(valueStr) != null){
+			            		String linemore [] = (line.substring(line.lastIndexOf("#::"))).split(",|，|、|，");
+			            		for (int j = 0 ; j <linemore.length ; j++ ) {
+			            			if((linemore[j]!="展开")||((j>1)&&(linemore[j-1]!="展开"))||(linemore[j]!="收起")){
+		            					cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+linemore[j]);
+		            				}
+				            		    }   
+			            		
+			            	}else{
+			            		cleanpatternlist.add(line.substring(0,line.lastIndexOf("##"))+"##"+line.substring(line.lastIndexOf("#::")));
+			            		
+			            	}
+	            			
+	            		}
+	            		
+		             
+		            }  
+
+
 	            bufReader.close();  
 	            inReader.close();  
 	            in.close();  
@@ -171,11 +206,12 @@ public class GatheringInfobox {
 			
 			GatheringInfobox test = new GatheringInfobox();
 			//获取原始语料
-			String filepath = "datas/人类语料/infobox/baidu_熊出没infobox.txt";
+			String filepath = "datas/人类语料/infobox/hudong_humanInfobox.txt";
+
 			List<String> corpusList = readFile(filepath);   
 			
 			//获取属性值正则表达式
-			String patternfilepath = "datas/人类语料/infobox/熊出没标签.txt";
+			String patternfilepath = "datas/人类语料/infobox/baidu人类标签.txt";
 			List<String> patternList = test.readLineFile(patternfilepath);
 
 			//生成能匹配且经过截取的字符串list
@@ -183,11 +219,11 @@ public class GatheringInfobox {
 			System.out.println(getlist.size());
 			
 			//将截取后的语料写入文件
-			String wirtecorpuspath = "datas/testresault.txt";
+			String wirtecorpuspath = "datas/历史人物详细.txt";
 			writeCorpus(getlist,wirtecorpuspath);
 			
 			List<String> cleanReadLineFile = test.cleanReadLineFile(wirtecorpuspath);	
-			String wirtecleancorpuspath = "datas/testcleanresault.txt";
+			String wirtecleancorpuspath = "datas/历史人物.txt";
 			writeCorpus(cleanReadLineFile,wirtecleancorpuspath);
 
 		}
